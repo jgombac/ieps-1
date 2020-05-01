@@ -1,3 +1,6 @@
 [submodule "crawler"]
 	path = crawler
 	url = https://github.com/jgombac/crawler
+[submodule "2nd_assignment"]
+	path = 2nd_assignment
+	url = A:/Development/web_extraction
