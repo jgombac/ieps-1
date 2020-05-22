@@ -5,3 +5,7 @@
 [submodule "2nd_assignment"]
 	path = 2nd_assignment
 	url = https://github.com/jgombac/web_extraction
+
+[submodule "3rd_assignment"]
+	path = 3rd_assignment
+	url = https://github.com/jgombac/search_engine
